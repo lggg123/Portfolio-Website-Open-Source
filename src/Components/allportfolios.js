@@ -7,6 +7,9 @@ import port6 from '../img/portImages/port5.jpg';
 import port7 from '../img/portImages/port6.jpg';
 import port8 from '../img/portImages/fedes.jpeg';
 import port9 from '../img/portImages/trendziehub.png';
+import stacklrImg from '../img/portImages/stacklr.png';
+import vonageImg from '../img/portImages/vonage.png';
+import appleLogo from '../img/portImages/apple-logo.png';
 
 const portfolios = [
   // {
@@ -23,6 +26,42 @@ const portfolios = [
   {
     id: 1,
     category: 'Business',
+    link1: 'www.developer.vonage.com',
+    // link2: 'www.github.com',
+    icon1: 'WS',
+    // icon2: 'G',
+    image: vonageImg,
+    title: 'Vonage',
+    description:
+      'Refactoring and adding new features on a Ruby on Rails application with markdown renderers and yaml file parsers to use instead of html.erb files to give technical writers and easy template to build new features. I primarily work on the development side of things in regards to fixing bugs and adding new features to the frontend and backend.'
+  },
+  {
+    id: 2,
+    category: 'Business',
+    link1: 'www.stacklr.com',
+    // link2: 'www.github.com',
+    icon1: 'WS',
+    // icon2: 'G',
+    image: stacklrImg,
+    title: 'Stacklr',
+    description:
+    'Building out new features on the backend and fixing database changes and updates. Integrated redis and sidekiq to produce a background job to update an entry based on creation of another table. Working with Ruby on Rails 6.0 and Ruby 2.6.3. On the frontend built out new functionalities to update data and to make an http request. React 18 is being used as the front end framework.',
+  },
+  {
+    id: 3,
+    category: 'Business',
+    link1: 'www.apple.com',
+    // link2: 'www.github.com',
+    icon1: 'WS',
+    // icon2: 'G',
+    image: appleLogo,
+    title: 'Apple',
+    description:
+      'Built an internal optimization Ruby gem for the internal team at Apple. Ruby 2.7.4 and used PyCall, JSON, and RSpec gems to build the foundation for the gem.',
+  },
+  {
+    id: 4,
+    category: 'Business',
     link1: 'www.equitysmith.com',
     // link2: 'www.github.com',
     icon1: 'WS',
@@ -33,7 +72,7 @@ const portfolios = [
       'Currently building a replacement for the Wordpress website with a MongoDB, Express.js, React.js, Node.js website using AWS Lambda in docker containers.',
   },
   {
-    id: 2,
+    id: 5,
     category: 'E-Commerce',
     link1: 'www.gono2.com',
     link2: 'www.github.com',
@@ -45,7 +84,7 @@ const portfolios = [
       'E-Commerce website built on shopify redesigned with ReactJS and GraphQl',
   },
   {
-    id: 3,
+    id: 6,
     category: 'E-Commerce',
     link1: 'www.prolonfmd.com',
     // link2: 'www.github.com',
@@ -68,7 +107,7 @@ const portfolios = [
   //     description: 'Refactored a custom PHP framework built from a Dolphin dating website fixing up SQL queries and running a front-end audit for bugs'
   // },
   {
-    id: 4,
+    id: 7,
     category: 'Business',
     link1: 'www.ajla.com',
     // link2: 'www.github.com',
@@ -80,7 +119,7 @@ const portfolios = [
       'Built and fixed the job board and unemployment site for the state of Kansas. Utilized React for the front-end and Ruby on Rails for backend using sidekiq and redis for boackground jobs and a PostgresQL Database.',
   },
   {
-    id: 5,
+    id: 8,
     category: 'e-commerce',
     link1: 'www.trendziehub.com',
     // link2: 'www.github.com',
