@@ -26,6 +26,19 @@ const portfolios = [
   {
     id: 1,
     category: 'Business',
+    link1: 'www.apple.com',
+    // link2: 'www.github.com',
+    icon1: 'WS',
+    // icon2: 'G',
+    image: appleLogo,
+    title: 'Apple',
+    description:
+    'Used a linear sum assignment solver to create a matching algorithm for private data.'
+      // 'Built an internal optimization Ruby gem for the internal team at Apple. Ruby 2.7.4 and used PyCall, JSON, and RSpec gems to build the foundation for the gem.',
+  },
+  {
+    id: 2,
+    category: 'Business',
     link1: 'www.developer.vonage.com',
     // link2: 'www.github.com',
     icon1: 'WS',
@@ -36,7 +49,7 @@ const portfolios = [
       'Refactoring and adding new features on a Ruby on Rails application with markdown renderers and yaml file parsers to use instead of html.erb files to give technical writers and easy template to build new features. I primarily work on the development side of things in regards to fixing bugs and adding new features to the frontend and backend.'
   },
   {
-    id: 2,
+    id: 3,
     category: 'Business',
     link1: 'www.stacklr.com',
     // link2: 'www.github.com',
@@ -46,18 +59,6 @@ const portfolios = [
     title: 'Stacklr',
     description:
     'Building out new features on the backend and fixing database changes and updates. Integrated redis and sidekiq to produce a background job to update an entry based on creation of another table. Working with Ruby on Rails 6.0 and Ruby 2.6.3. On the frontend built out new functionalities to update data and to make an http request. React 18 is being used as the front end framework.',
-  },
-  {
-    id: 3,
-    category: 'Business',
-    link1: 'www.apple.com',
-    // link2: 'www.github.com',
-    icon1: 'WS',
-    // icon2: 'G',
-    image: appleLogo,
-    title: 'Apple',
-    description:
-      'Built an internal optimization Ruby gem for the internal team at Apple. Ruby 2.7.4 and used PyCall, JSON, and RSpec gems to build the foundation for the gem.',
   },
   {
     id: 4,
