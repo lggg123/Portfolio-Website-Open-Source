@@ -23,13 +23,16 @@ function NavBar() {
             </NavLink>
           </li>
           <li className="nav-item">
+            <a href="https://opensea.io/georgealugo">NFTs</a>
+          </li>
+          <li className="nav-item">
             <NavLink to="/portfolios" exact activeClassName="active">
-              Portfolios
+              Portfolio
             </NavLink>
           </li>
           <li className="nav-item">
             <NavLink to="/blog" exact activeClassName="active">
-              Blog
+              Learn to Code
             </NavLink>
           </li>
           <li className="nav-item">
