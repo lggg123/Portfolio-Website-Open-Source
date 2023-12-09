@@ -22,24 +22,24 @@ function HomePage() {
                     can also help out in Digital Marketing, starting up businesses, and even your own blog.
                 </p>
                 <div className="icons">
-                    <Link to="https://www.facebook.com/CMS-Devmasters-109770954815250"className="icon-holder">
+                    <a href="https://www.facebook.com/codezforlife"className="icon-holder">
                         <Facebook className="icon fb"/>
-                    </Link>
-                    <Link to='https://www.github.com/lggg123/' className="icon-holder">
+                    </a>
+                    <a href='https://www.github.com/lggg123/' className="icon-holder">
                        <Github className="icon gh"/>
-                    </Link>
-                    <Link to='https://www.instagram.com/codedevs2021/' className="icon-holder">
+                    </a>
+                    <a href='https://www.instagram.com/georgebyhimself' className="icon-holder">
                         <Instagram className="icon ig"/>
-                    </Link>
-                    <Link className="icon-holder">
+                    </a>
+                    <a href="https://www.twitter.com/glugo21"className="icon-holder">
                         <Twitter className="icon tw"/>
-                    </Link>
-                    <Link to='https://www.snapchat.com/add/codedevs2021/' className="icon-holder">
+                    </a>
+                    <a href='https://www.snapchat.com/add/glugo123/' className="icon-holder">
                         <Snapchat className="icon sp"/>
-                    </Link>
-                    <Link className="icon-holder">
+                    </a>
+                    <a href="https://www.tiktok.com/@georgecodez" className="icon-holder">
                         <TikTok className="icon tt"/>
-                    </Link>
+                    </a>
                 </div>
             </div> 
         </div>
