@@ -5,6 +5,8 @@ import blog4 from '../img/blog4.svg';
 import blog5 from '../img/blog5.svg';
 import blog6 from '../img/gan.png';
 import blog7 from '../img/appacademy.png';
+import blockchain from '../img/blockchain.png';
+import nft from '../img/nft.png';
 
 const blogs = [
     {
@@ -54,6 +56,15 @@ const blogs = [
     },
     {
         id: 6,
+        image: nft,
+        title: "Easily deploy NFTs the right way on Polygon",
+        link: 'https://github.com/lggg123/NFT-Mint-Tutorial-Polygon',
+        date: '9',
+        month: 'Dec',
+        year: 2023
+    },
+    {
+        id: 7,
         image: blog6,
         title: "What is a Generative Adversarial Network (GAN) the in's and out's and how to code one from scratch (training needed!).",
         link: 'https://github.com/lggg123/Understanding-GANs',
