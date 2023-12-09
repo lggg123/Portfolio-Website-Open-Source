@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c9335569.chunk.css",
-    "main.js": "/static/js/main.166d904f.chunk.js",
-    "main.js.map": "/static/js/main.166d904f.chunk.js.map",
+    "main.js": "/static/js/main.791ade5f.chunk.js",
+    "main.js.map": "/static/js/main.791ade5f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0e6063fd.js",
     "runtime-main.js.map": "/static/js/runtime-main.0e6063fd.js.map",
     "static/js/2.5e6c7664.chunk.js": "/static/js/2.5e6c7664.chunk.js",
@@ -35,6 +35,7 @@
     "static/media/instagram.fd20105e.svg": "/static/media/instagram.fd20105e.svg",
     "static/media/intelligence.c581e4a2.svg": "/static/media/intelligence.c581e4a2.svg",
     "static/media/location.5cd6776e.svg": "/static/media/location.5cd6776e.svg",
+    "static/media/nft.630daf86.png": "/static/media/nft.630daf86.png",
     "static/media/phone.ef86e22a.svg": "/static/media/phone.ef86e22a.svg",
     "static/media/prolon.539e10ab.png": "/static/media/prolon.539e10ab.png",
     "static/media/snapchat.cfa56f72.svg": "/static/media/snapchat.cfa56f72.svg",
@@ -51,6 +52,6 @@
     "static/js/runtime-main.0e6063fd.js",
     "static/js/2.5e6c7664.chunk.js",
     "static/css/main.c9335569.chunk.css",
-    "static/js/main.166d904f.chunk.js"
+    "static/js/main.791ade5f.chunk.js"
   ]
 }
