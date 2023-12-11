@@ -28,7 +28,7 @@ function HomePage() {
                     <a href='https://www.github.com/lggg123/' className="icon-holder">
                        <Github className="icon gh"/>
                     </a>
-                    <a href='https://www.instagram.com/georgebyhimself' className="icon-holder">
+                    <a href='https://www.instagram.com/georgealugo' className="icon-holder">
                         <Instagram className="icon ig"/>
                     </a>
                     <a href="https://www.twitter.com/glugo21"className="icon-holder">
