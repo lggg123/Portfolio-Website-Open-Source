@@ -7,6 +7,7 @@ import blog6 from '../img/gan.png';
 import blog7 from '../img/appacademy.png';
 import blockchain from '../img/blockchain.png';
 import nft from '../img/nft.png';
+import nftCollection from '../img/ghosterz.png';
 
 const blogs = [
     {
@@ -70,6 +71,14 @@ const blogs = [
         link: 'https://github.com/lggg123/Understanding-GANs',
         date: '9',
         month: 'Dec',
+        year: '2023'
+    },
+    {
+        id: 8,
+        image: nftCollection,
+        title: "New NFT Collection with 1000 NFTs to be airdropped!",
+        link: 'https://ghost-giveaway-react-typescript-m3evgsa3i-lggg123.vercel.app/',
+        date: '10',
         year: '2023'
     }
 ];
