@@ -3,7 +3,7 @@
 
 ### to fix it simply clone the repo using git clone and copy the https url on the green code button at the repo page
 
-Fix what you want to fix. Make sure to install yarn typing `yarn` in the terminal when you clone the repo
+Fix what you want to fix. Make sure to install node.js version 12.22.12 using `nvm install v12.22.12` then yarn typing `yarn` in the terminal when you clone the repo
 
 Once it is fixed check to see if it is fixed by running localhost `yarn start`
 
