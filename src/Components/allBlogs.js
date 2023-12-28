@@ -77,8 +77,9 @@ const blogs = [
         id: 8,
         image: nftCollection,
         title: "New NFT Collection with 1000 NFTs to be airdropped!",
-        link: 'https://ghost-giveaway-react-typescript-m3evgsa3i-lggg123.vercel.app/',
+        link: 'https://ghosterz.vercel.app/',
         date: '10',
+        month: 'Dec',
         year: '2023'
     }
 ];
