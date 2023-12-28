@@ -26,9 +26,15 @@ function AboutPage() {
                 <SkillsSection skill={'VueJS'} progress={'80%'} width={'80%'}/>
                 <SkillsSection skill={'Ruby on Rails'} progress={'99%'} width={'99%'}/>
                 <SkillsSection skill={'PHP(Laravel)'} progress={'90%'} width={'90%'}/>
+                <SkillsSection skill={'Go'} progress={'85%'} width={'100%'} />
+                <SkillsSection skill={'Python'} progress={'100%'} width={'100%'} />
+                <SkillsSection skill={'Rust'} progress={'75%'} width={'100%'} />
+                <SkillsSection skill={'Solidity'} progress={'95%'} width={'100%'} />
                 <SkillsSection skill={'SQL'} progress={'100%'} width={'100%'}/>
                 <SkillsSection skill={'MySQL'} progress={'100%'} width={'100%'}/>
-                <SkillsSection skill={'MongoDB'} progress={'70%'} width={'70%'}/>
+                <SkillsSection skill={'NoSQL'} progress={'95%'} width={'100%'} />
+                <SkillsSection skill={'MongoDB'} progress={'100%'} width={'70%'}/>
+                <SkillsSection skill={'MariaDB'} progress={'95%'} width={'100%'} />
             </div>
             <div className="services-container">
                 <ServicesSection image={design} title={'Full Stack Web development'}/>

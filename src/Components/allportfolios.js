@@ -13,7 +13,7 @@ const portfolios = [
   {
       id: 1,
       category: 'E-Commerce',
-      link1: 'www.zybershop.de',
+      link1: 'https://www.zybershop.de',
       link2: 'https://github.com/lggg123/zybershop-commerce',
       icon1: 'Website',
       icon2: 'Code',
@@ -24,7 +24,7 @@ const portfolios = [
   {
     id: 2,
     category: 'Business',
-    link1: 'www.guildmortgage.com',
+    link1: 'https://www.guildmortgage.com',
     icon1: 'Website',
     image: guildPhoto,
     title: 'Guild Mortgage',
@@ -33,9 +33,9 @@ const portfolios = [
   {
     id: 3,
     category: 'Business',
-    link1: 'www.developer.vonage.com',
+    link1: 'https://developer.vonage.com',
     // link2: 'www.github.com',
-    icon1: 'WS',
+    icon1: 'Website',
     // icon2: 'G',
     image: vonageImg,
     title: 'Vonage',
@@ -45,7 +45,7 @@ const portfolios = [
   {
     id: 4,
     category: 'Business',
-    link1: 'www.stacklr.com',
+    link1: 'https://www.stacklr.com',
     // link2: 'www.github.com',
     icon1: 'WS',
     // icon2: 'G',
@@ -57,7 +57,7 @@ const portfolios = [
   {
     id: 5,
     category: 'Business',
-    link1: 'www.apple.com',
+    link1: 'https://www.apple.com',
     // link2: 'www.github.com',
     icon1: 'Website',
     // icon2: 'G',
@@ -69,7 +69,7 @@ const portfolios = [
   {
     id: 4,
     category: 'Business',
-    link1: 'www.equitysmith.com',
+    link1: 'https://www.equitysmith.com',
     // link2: 'www.github.com',
     icon1: 'Website',
     // icon2: 'G',
@@ -81,7 +81,7 @@ const portfolios = [
   {
     id: 6,
     category: 'E-Commerce',
-    link1: 'www.gono2.com',
+    link1: 'https://www.gono2.com',
     //link2: 'www.github.com',
     icon1: 'Website',
     icon2: '',
@@ -93,9 +93,9 @@ const portfolios = [
   {
     id: 7,
     category: 'E-Commerce',
-    link1: 'www.prolonfmd.com',
+    link1: 'https://www.prolonfmd.com',
     // link2: 'www.github.com',
-    icon1: 'WS',
+    icon1: 'Website',
     // icon2: 'G',
     image: port3,
     title: 'Prolon',
@@ -116,9 +116,9 @@ const portfolios = [
   {
     id: 8,
     category: 'Business',
-    link1: 'www.ajla.com',
+    link1: 'https://www.ajla.com',
     // link2: 'www.github.com',
-    icon1: 'WS',
+    icon1: 'Website',
     // icon2: 'G',
     image: port8,
     title: 'FEDES / AJLA State of Kansas',
@@ -128,7 +128,7 @@ const portfolios = [
   {
     id: 9,
     category: 'e-commerce',
-    link1: 'www.thenetoutlet.com',
+    link1: 'https://www.thenetoutlet.com',
     // link2: 'www.github.com',
     icon1: 'Website',
     // icon2: 'G',
