@@ -5,7 +5,6 @@ import { ReactComponent as Github } from '../img/github.svg';
 import { ReactComponent as Twitter } from '../img/twitter.svg';
 import { ReactComponent as TikTok } from '../img/tiktok.svg';
 import { ReactComponent as Snapchat } from '../img/snapchat.svg';
-import {Link} from 'react-router-dom';
 
 function HomePage() {
     return (
