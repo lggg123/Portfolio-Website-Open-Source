@@ -11,25 +11,25 @@ import appleLogo from '../img/portImages/apple-logo.png';
 
 const portfolios = [
   {
-      id: 1,
-      category: 'E-Commerce',
-      link1: 'https://www.zybershop.de',
-      link2: 'https://github.com/lggg123/zybershop-commerce',
-      icon1: 'Website',
-      icon2: 'Code',
-      image: zybershop,
-      title: 'Zybershop',
-      description: 'E-commerce website built on the shopify platform using Debutify with custom liquid code snippets for proper e-commerce optimization using help desk application, klavyio marketing optimization, currently building a Hydrogen rebuild that is currently open-source for anyone to collaborate on and learn how to use Hydrogen properly, checkout the button code when you hover over the picture for more information on how to collaborate.'
-  },
-  {
-    id: 2,
+    id: 1,
     category: 'Business',
     link1: 'https://www.guildmortgage.com',
     icon1: 'Website',
     image: guildPhoto,
     title: 'Guild Mortgage',
-    description: 'Worked on Loan information refactoring to a Laravel application from a monolithic PHP application, refactoring to a MVC framework methodology creating a specific service to access loan information in one of the many databases'
+    description: 'I refactored loan information in a Laravel app from monolithic PHP, adopting MVC and creating Laravel packages for efficient access across databases and loan data formatting. Additionally, I implemented an escrow analysis PDF creator with implicit scope models, enhancing system efficiency.'
   },
+  {
+    id: 2,
+    category: 'E-Commerce',
+    link1: 'https://www.zybershop.de',
+    link2: 'https://github.com/lggg123/zybercommerce',
+    icon1: 'Website',
+    icon2: 'Code',
+    image: zybershop,
+    title: 'Zybershop',
+    description: 'E-commerce website built on the Shopify platform using a custom liquid theme for proper e-commerce optimization using Help Desk Application, Klavyio Marketing Optimization, Trafficly, Ryviu.'
+},
   {
     id: 3,
     category: 'Business',
@@ -76,7 +76,7 @@ const portfolios = [
     image: port5,
     title: 'Equitysmith',
     description:
-      'Currently building a replacement for the Wordpress website with a MongoDB, Express.js, React.js, Node.js website using AWS Lambda in docker containers.',
+      'Implemented custom Wordpress development and refactored the UI to make it mobile responsive and integrated proper design fundamentals as well as built a custom plugin for admin to manage sitemaps and email campaign management',
   },
   {
     id: 6,
@@ -125,18 +125,18 @@ const portfolios = [
     description:
       'Built and fixed the job board and unemployment site for the state of Kansas. Utilized React for the front-end and Ruby on Rails for backend using sidekiq and redis for boackground jobs and a PostgresQL Database.',
   },
-  {
-    id: 9,
-    category: 'e-commerce',
-    link1: 'https://www.thenetoutlet.com',
-    // link2: 'www.github.com',
-    icon1: 'Website',
-    // icon2: 'G',
-    image: port9,
-    title: 'The NetOutlet',
-    description:
-      'Built in Turbo theme customized for e-commerce functionality. A US dropshipping store coming soon!',
-  },
+  // {
+  //   id: 9,
+  //   category: 'e-commerce',
+  //   link1: 'https://www.thenetoutlet.com',
+  //   // link2: 'www.github.com',
+  //   icon1: 'Website',
+  //   // icon2: 'G',
+  //   image: port9,
+  //   title: 'The NetOutlet',
+  //   description:
+  //     'Built in Turbo theme customized for e-commerce functionality. A US dropshipping store coming soon!',
+  // },
 ];
 
 export default portfolios;

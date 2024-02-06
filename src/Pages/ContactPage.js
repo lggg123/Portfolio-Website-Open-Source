@@ -13,7 +13,7 @@ function ContactPage() {
             </div>
             <div className="ContactPage">
                 <div className="map-sect">
-                    <iframe title="office_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26278.11562800441!2d-120.15492564041735!3d34.58482614970485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e954a0fc922285%3A0x2d0e281b060bc156!2sSolvang%2C%20CA%2093463!5e0!3m2!1sen!2sus!4v1634350879889!5m2!1sen!2sus" width="400" height="300" style={{border:0}} allowfullscreen="" loading="lazy"></iframe>
+                    <iframe title="office_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d423284.04413523123!2d-118.74138070476894!3d34.020608462124834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2sLos%20Angeles%2C%20CA!5e0!3m2!1sen!2sus!4v1707172242534!5m2!1sen!2sus" width="400" height="300" style={{border:0}} allowfullscreen="" loading="lazy"></iframe>
                 </div>
                 <div className="contact-sect">
                     <ContactItem icon={phone} text1={'+1 (323) 283-9160'} title={'Phone'}/>

@@ -73,15 +73,6 @@ const blogs = [
         month: 'Dec',
         year: '2023'
     },
-    {
-        id: 8,
-        image: nftCollection,
-        title: "New NFT Collection with 1000 NFTs to be airdropped!",
-        link: 'https://ghosterz.vercel.app/',
-        date: '10',
-        month: 'Dec',
-        year: '2023'
-    }
 ];
 
 export default blogs;

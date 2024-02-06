@@ -15,11 +15,12 @@ function HomePage() {
                     Hello, I am 
                     <span> a Software Engineer</span>
                 </h1>
-                <p class="h-sub-text">I have over 3+ years experience building websites from scratch or working on a team on an Agile
-                    Scrum basis. My specialty is Ruby on Rails with React, or a PHP Laravel with Vue.JS. I can design a website from 
-                    concept to product. Giving clients what they need in the timeframe they propose. My specific niche entails
-                    e-commerce development in Shopify, and can also build in Wordpress. Furthermore, I am a skilled entrepreneur that
-                    can also help out in Digital Marketing, starting up businesses, and even your own blog.
+                <p class="h-sub-text">After honing my expertise for over 5+ years, I excel in crafting dynamic websites either independently or collaboratively within Agile Scrum frameworks. 
+                    My proficiency lies in seamlessly working with Ruby on Rails, Golang (Gin), PHP Laravel, NodeJS, ReactJS, VueJS, React Native, Solidity, and Typescript to bring concepts to life. From inception to deployment, 
+                    I adeptly navigate the entire web development lifecycle, consistently delivering on client requirements within their proposed timelines. 
+                    With a versatile background spanning various domains, I've successfully navigated diverse projects, excelling in e-commerce development within the Shopify ecosystem and showcasing robust proficiency in WordPress. 
+                    My expertise extends to business applications, data science applications, IT solutions, government projects, HIPAA-compliant applications, and cryptocurrency endeavors.
+                    In addition to my technical acumen, I bring a strategic entrepreneurial mindset to the table. Beyond website development, I actively contribute to digital marketing strategies, business startups, and blog creation, providing comprehensive support across diverse domains.
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/codezforlife"className="icon-holder">
